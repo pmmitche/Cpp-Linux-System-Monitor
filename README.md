@@ -1,5 +1,5 @@
 # Cpp-Linux-System-Monitor
-This is a Linux System Monitor written in C++ and inspired by the htop program.
+This is a Linux System Monitor written in C++ and inspired by the htop program, found within the Udacity C++ Nanodegree course.
 
 ![System Monitor](images/monitor.png)
 
