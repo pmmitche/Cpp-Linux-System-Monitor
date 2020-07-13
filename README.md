@@ -1,4 +1,5 @@
 # Cpp-Linux-System-Monitor
+This is a Linux System Monitor written in C++ and inspired by the htop program.
 
 ![System Monitor](images/monitor.png)
 
